@@ -47,3 +47,5 @@ This project focuses on analyzing social media engagement data to evaluate campa
 * *UI/UX Design:* Implementing a cohesive color theme for business reporting.
 
 ## 📸 Screenshot
+<img width="1306" height="733" alt="Social Media Campaign Performance Tracker" src="https://github.com/user-attachments/assets/f4cc009d-bfad-4a4c-a197-6897d8432252" />
+
